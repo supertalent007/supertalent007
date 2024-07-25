@@ -36,8 +36,3 @@
 
 ### 🎵 Let's Listen Together
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=adityabolt&count=3&unique=true)
-
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/adeeteya) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/adeeteya) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/adeeteya) 
-
-![Visitor Count](https://komarev.com/ghpvc/?username=adeeteya&style=for-the-badge&abbreviated=true)
