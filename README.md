@@ -4,7 +4,6 @@
 
 <div align="center">
 
-![Self Describing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=253985&center=true&vCenter=true&random=false&width=500&height=100&lines=Flutter+App+Developer;MERN+Stack+Developer;Arduino+Developer;Tech+Enthusiast;Professional+Daydreamer)
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drbrad&layout=compact&langs_count=100&theme=dark)](https://github.com/DrBrad)
 
 [![Stats](https://github-readme-streak-stats.herokuapp.com/?user=DrBrad&theme=gruvbox&hide_border=true)](https://github.com/DrBrad)
