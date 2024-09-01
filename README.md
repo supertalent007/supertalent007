@@ -17,11 +17,10 @@
 
 [![An image of @adeeteya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adeeteya)](https://holopin.io/@adeeteya)
 
-
-
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supertalent007&hide_progress=true&theme=dark)
 
 [![Stats](https://github-readme-streak-stats.herokuapp.com/?user=DrBrad&theme=gruvbox&hide_border=true)](https://github.com/DrBrad)
 
