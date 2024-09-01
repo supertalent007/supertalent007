@@ -22,8 +22,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supertalent007&hide_progress=true&theme=dark)
 
 [![Stats](https://github-readme-streak-stats.herokuapp.com/?user=DrBrad&theme=gruvbox&hide_border=true)](https://github.com/DrBrad)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=supertalent007&show_icons=true&theme=radical&hide_title=true)
 </div>
 
 ## 💻Tech Stack
