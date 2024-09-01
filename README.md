@@ -15,7 +15,7 @@
   
 </div>
 
-[![An image of @adeeteya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adeeteya)](https://holopin.io/@adeeteya)
+[![An image of badges, which is a link to view their full profile](https://cyberstar-portfolio.vercel.app/)](https://cyberstar-portfolio.vercel.app/)
 
 <div align="center">
 
