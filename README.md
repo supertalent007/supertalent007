@@ -15,8 +15,6 @@
   
 </div>
 
-[![An image of badges, which is a link to view their full profile](https://cyberstar-portfolio.vercel.app/)](https://cyberstar-portfolio.vercel.app/)
-
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supertalent007&hide_progress=true&theme=dark)
