@@ -17,6 +17,8 @@
 
 <div align="center">
 
+[![An image of @supertalent007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supertalent007)](https://holopin.io/@supertalent007)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supertalent007&hide_progress=true&theme=dark)
 
 [![Stats](https://github-readme-streak-stats.herokuapp.com/?user=DrBrad&theme=gruvbox&hide_border=true)](https://github.com/DrBrad)
