@@ -9,7 +9,6 @@
 - 🔭 I have hands-on experience in AI and Python
 - 🌱 I’m currently working on Crypto and Network Security, Heuristic Problem Solving and Database Systems
 - 💬 Ask me about any Web, Mobile and AI Development
-- 📫 How to reach me: cyberstar3666@gmail.com
 - 😄 Pronouns: he/him
 - ✅ Always open to work
   
